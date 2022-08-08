@@ -1,0 +1,34 @@
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\COLMADO LA FE.csproj.AssemblyReference.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\COLMADO LA FE.csproj.SuggestedBindingRedirects.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cliente.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Factura.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Producto.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.list.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\COLMADO LA FE.csproj.GenerateResource.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\COLMADO LA FE.csproj.CoreCompileInputs.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InicioDeSecion.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RegistroUsuario.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\COLMADO LA FE.csproj.AssemblyReference.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\COLMADO LA FE.csproj.SuggestedBindingRedirects.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cliente.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Factura.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InicioDeSecion.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Producto.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.list.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RegistroUsuario.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\COLMADO LA FE.csproj.GenerateResource.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\COLMADO LA FE.csproj.CoreCompileInputs.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (6)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

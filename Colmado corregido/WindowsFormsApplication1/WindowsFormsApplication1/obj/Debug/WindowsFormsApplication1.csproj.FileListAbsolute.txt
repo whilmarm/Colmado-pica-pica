@@ -1,0 +1,58 @@
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cliente.resources
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.list.resources
+C:\Users\Esc. De Informatica\Documents\inf211\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Factura.resources
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cliente.resources
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Factura.resources
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.list.resources
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lapro\OneDrive\Documentos\daniel\Teoria.lenguajeProg1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Producto.resources
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cliente.resources
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Factura.resources
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Producto.resources
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.list.resources
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dayi\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cliente.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Factura.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Iniciodeseccion.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Producto.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.list.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\amari.ADMINIS-5IFRA7A\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.INICIO.resources
